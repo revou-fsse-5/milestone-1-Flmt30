@@ -1,6 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/cvSOEAVD)
 
-Artful_Interface Design Studio Website README
+Artful_Interface Design Studio Website 
 
 Welcome to the repository for the Artful_Interface Design Studio website. This README provides an overview of the files, structure, and how to get started with the website.
 
